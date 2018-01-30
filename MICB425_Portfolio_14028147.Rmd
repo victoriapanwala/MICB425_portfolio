@@ -60,7 +60,11 @@ Use this space to include your installation screenshots.
 ### Portfolio repo setup
 Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
 
+git add <file name>
+git commit -m"message"
+git push 
 
+and use git status to check
 
 ### RMarkdown pretty html challenge
 Paste your code from the in-class activity of recreating the example html.
@@ -274,9 +278,88 @@ However, it is foolhardy to assume that point mutations are the only way that mi
 
 Based on the information provided in the text, I would say that prokaryotic abundance and metabolic potential is highly related to the diversity of organisms present in the biosphere. Given the large abundance of prokaryotic life, and its correspondingly large mutation rate, over the course of geologic time this has generated an incredibly diverse set of metabolic capabilities of individual prokaryotes. These different metabolic abilities have enabled prokaryotes to colonize the entire biosphere (24-34 km of the earth's surface, subsurface, and lower atmosphere).
 
+### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
+#### Learning objectives: 
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago  
+
+According to Nisbet et al, our solar system began after one or multiple supernova explosions. At this time, the inner planets (including earth) were formed from collisions between "planetesimals" - debris about the size of the earth's moon. 
+
+    + 4.2 billion years ago  
+    
+The suggested origin of life (microbial) according to Nisbet et. al. Due to the intrinsically difficult nature of establishing an exact date, the origin of life is instead given in a range: 4.0+/-0.2 Gyr. This data is supported by the enrichment of "heavy" ^13^C in inorganic carbonate in rocks. 
+
+    + 3.8 billion years ago  
+    
+According to Nisbet et al, the earth suffered "frequent massive meteorite impacts", some of which were large enough to cause the liquid water in the oceans to become steam. 
+    
+    + 3.5 billion years ago  
+    
+Fossil evidence of microbial biofilms and stromatolites first appears. Additionally, increased isotopic evidence for life. This is when Rubisco, the enzyme necessary for oxygenic photosynthesis was thought to have developed. This is when LUCA - the Last Universal Common Ancestor of all life was thought to have lived. 
+
+    + 3.0 billion years ago
+
+Some evidence points to the emergence of the first continents as we know them today (albeit in different formations). 
+    
+    + 2.7 billion years ago  
+
+Initial rise of atmospheric O~2~, believed to be due to the rise of cyanobacteria. This is also when one of the first glaciation events occured, due to the decrease of CH~4~ in the atmosphere due to microbial processes. 
+
+    + 2.2 billion years ago  
+
+There are some findings that hypothetically date life on land beginning as early as 2.2 billion years ago. However, microbial fossils are far from conclusive.
+
+    + 2.1 billion years ago
+    
+The advent of the first complex (read, multicellular) organisms, or at least fossil evidence for them.
+    
+    + 1.3 billion years ago
+
+Evidence of the first land fungi: not photosynthetic land plants. Photosynthetic land plands were only thought to have evolved around 700 million years ago. 
+
+    + 550,000,000 years ago
+
+The Cambrian explosion, when most modern day animal phyla are thought to have evolved. This was a major diversification of complex life on the planet.  
+
+    + 200,000 years ago
+
+The first record of Homo Sapiens (us) in Africa. 
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadean  
+    
+The Hadean is generally established as 4.6 - 4 Gyr, and is contains the origin of earth as a planet to the origin of life on earth. During this time, meteorite bombardment levels were very high, and conditions on the surface were not well suited to life today. Nisbet et. al compares the Hadean earth to a "Norse Ice-Hades" with glacial temperatures interspersed with very high temperatures as a result of meteorite impacts. The oceans formed during this time period. Additionally, the early sun was fainter. 
+    
+    + Archean  
+
+Life developed during the Archaean (4-2.5 Gyr). Volcanic activity was very high, and due to the advent of oxygenic photosynthesis, the beginning of the oxygenation of the earth's atmosphere occured.
+
+    + Precambrian  
+
+The Precambrian Supereon stretches from 4.6 Gyr - 0.56 Gyr, and contains the Hadean, Archean, and Proterozoic (but not the Phanerozoic) eons. The Earth went through a wide variety of physical and chemical characteristics during this time (see other sections for details).
+
+    + Proterozoic  
+
+2.5-0.56 Gyr. Oxygenation of the earth's atmosphere continued, finally reaching significant levels due to the proliferation of oxygenic photosynthesis. This established conditions necesary for the first complex and multicellular organisms. As the sun's luminosity increases by 6% every billion years, the earth begins to recieve more heat from the sun. However, there is evidence that the earth cooled during this period, a hypothesis known as Snowball Earth due to changes in the cheical composition of the atmosphere.
+
+    + Phanerozoic  
+
+0.56 Gyr to present day. This eon encompasses the development of land plants and land life, as well as the origins of most of the recognized animal phyla to this day. This comparatively small (considering the extent of the precambrian superepoch) epoch also contains several planetary extinction events establishment of land masses as we know them today. 
+
 ### Module 01 references
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
 An example for Whitman and Wiebe (1998) has been included below.
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+Kasting JF,and Siefert JL. 2003. Life and the Evolution of Earth's Atmosphere. Science. 296: 1066-1067. (https://www.ncbi.nlm.nih.gov/pubmed?term=Science%5BJour%5D+AND+Life+and+the+Evolution+of+Earth’s+Atmosphere&TransSchema=title&cmd=detailssearch)
+
+Nisbet EG, and Sleep NH. 2001. The habitat and nature of early life. Nature. 409: 1083-1091. 
+
+Orndoroff RC, et al. 2007. Divisions of Geologic Time - Major Chronostratigraphic and Geochronologic Units. Fact Sheet 2007-3015. U.S. Department of the Interior and U.S. Geological Survey. 
