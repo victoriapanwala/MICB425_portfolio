@@ -289,13 +289,15 @@ Comment on the emergence of microbial life and the evolution of Earth systems
 
 According to Nisbet et al, our solar system began after one or multiple supernova explosions. At this time, the inner planets (including earth) were formed from collisions between "planetesimals" - debris about the size of the earth's moon. 
 
-    + 4.2 billion years ago  
+    + 4.1 billion years ago  
     
-The suggested origin of life (microbial) according to Nisbet et. al. Due to the intrinsically difficult nature of establishing an exact date, the origin of life is instead given in a range: 4.0+/-0.2 Gyr. This data is supported by the enrichment of "heavy" ^13^C in inorganic carbonate in rocks. 
+The suggested origin of life (microbial) according to Nisbet et. al. Due to the intrinsically difficult nature of establishing an exact date, the origin of life is instead given in a range: 4.0+/-0.2 Gyr. This data is supported by specific carbon isotope signatures in zircons. 
 
     + 3.8 billion years ago  
     
 According to Nisbet et al, the earth suffered "frequent massive meteorite impacts", some of which were large enough to cause the liquid water in the oceans to become steam. 
+
+This is when the earliest sedimentary rocks were found, which indicates that there were liquid oceans. 
     
     + 3.5 billion years ago  
     
@@ -303,11 +305,11 @@ Fossil evidence of microbial biofilms and stromatolites first appears. Additiona
 
     + 3.0 billion years ago
 
-Some evidence points to the emergence of the first continents as we know them today (albeit in different formations). 
+First global glaciation event due to the presence of increasing amounts of oxygen in the earth's atmosphere (oxygenic photosynthesis) which reacted with methane in the atmosphere. During this time the sun was much weaker, so the earth would have frozen earlier had it not been for methanogenesis contributing greenhouse gasses to keep the earth warm. 
     
     + 2.7 billion years ago  
 
-Initial rise of atmospheric O~2~, believed to be due to the rise of cyanobacteria. This is also when one of the first glaciation events occured, due to the decrease of CH~4~ in the atmosphere due to microbial processes. 
+Increasing rise of atmospheric O~2~, believed to be due to the rise of cyanobacteria. This is also when one of the first glaciation events occured, due to the decrease of CH~4~ in the atmosphere due to microbial processes. 
 
     + 2.2 billion years ago  
 
@@ -319,7 +321,7 @@ The advent of the first complex (read, multicellular) organisms, or at least fos
     
     + 1.3 billion years ago
 
-Evidence of the first land fungi: not photosynthetic land plants. Photosynthetic land plands were only thought to have evolved around 700 million years ago. 
+Evidence of the first land fungi and microbes: not photosynthetic land plants. Photosynthetic land plands were only thought to have evolved around 400 million years ago. 
 
     + 550,000,000 years ago
 
@@ -333,7 +335,7 @@ The first record of Homo Sapiens (us) in Africa.
 
     + Hadean  
     
-The Hadean is generally established as 4.6 - 4 Gyr, and is contains the origin of earth as a planet to the origin of life on earth. During this time, meteorite bombardment levels were very high, and conditions on the surface were not well suited to life today. Nisbet et. al compares the Hadean earth to a "Norse Ice-Hades" with glacial temperatures interspersed with very high temperatures as a result of meteorite impacts. The oceans formed during this time period. Additionally, the early sun was fainter. 
+The Hadean is generally established as 4.6 - 4 Gyr, and is contains the origin of earth as a planet to the origin of life on earth. During this time, meteorite bombardment levels were very high, and conditions on the surface were not well suited to life today. Initially, the earth was molten until after 4.5 billion years ago when the moon was formed. Nisbet et. al compares the Hadean earth to a "Norse Ice-Hades" with glacial temperatures interspersed with very high temperatures as a result of meteorite impacts. The oceans formed during this time period. Additionally, the early sun was fainter. 
     
     + Archean  
 
@@ -345,7 +347,7 @@ The Precambrian Supereon stretches from 4.6 Gyr - 0.56 Gyr, and contains the Had
 
     + Proterozoic  
 
-2.5-0.56 Gyr. Oxygenation of the earth's atmosphere continued, finally reaching significant levels due to the proliferation of oxygenic photosynthesis. This established conditions necesary for the first complex and multicellular organisms. As the sun's luminosity increases by 6% every billion years, the earth begins to recieve more heat from the sun. However, there is evidence that the earth cooled during this period, a hypothesis known as Snowball Earth due to changes in the cheical composition of the atmosphere.
+2.5-0.56 Gyr. Oxygenation of the earth's atmosphere continued, finally reaching significant levels due to the proliferation of oxygenic photosynthesis. This established conditions necesary for the first complex and multicellular organisms. As the sun's luminosity increases by 6% every billion years, the earth begins to recieve more heat from the sun. However, there is evidence that the earth cooled during this period, a hypothesis known as Snowball Earth due to changes in the cheical composition of the atmosphere. There were likely repeated cycles of glaciation.
 
     + Phanerozoic  
 
