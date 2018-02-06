@@ -353,6 +353,35 @@ The Precambrian Supereon stretches from 4.6 Gyr - 0.56 Gyr, and contains the Had
 
 0.56 Gyr to present day. This eon encompasses the development of land plants and land life, as well as the origins of most of the recognized animal phyla to this day. This comparatively small (considering the extent of the precambrian superepoch) epoch also contains several planetary extinction events establishment of land masses as we know them today. 
 
+### Problem set 02
+#### Learning objectives: 
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
+
+#### Specific Questions:
+#####* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+
+According to Falkowski et al, the primary geophysical and biochemical processes that create and sustain conditions for life on Earth are plate tectonics and atmospherical photochemical processes. These phenomenon "supply substrates and remove products" necessary for avoiding planetary thermodynamic equilibrium at which point substrates essential for life on earth would be depleted. Abiotic and biotic processes are related in that together they establish the "average redox state" of the planet. The difference between abiotic and biotic processes is partially that of time scale, due to biological enzymes that can catalyze reactions, biotic processes can occur at greater speed, even if biotic and abiotic reactions are equally thermodynamically favorable. Additionally, biotic processes can drive oxidation based on photosynthesis, a unique energy transduction process.
+
+#####* Why is Earth’s redox state considered an emergent property?
+  
+According to a reasearchgate post, "An emergent property is a property which a collection or complex system has, but which the individual members do not have." Thus, since earth's redox state is a product of biotic and abiotic processes, e.g. feedback between microbial metabolism and geochemical events - for context think about the "snowball earth" phenomenon after the advent of oxygenic photosynthesis, this is an emergent property. Individual populations of microbes do not establish the earth's redox state, but collectively their interactions with geochemical processes do. 
+
+#####* How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+
+To describe this process, I will use the example outlined in the Falkowski paper, that of the global nitrogen cycle, which before human intervention was run excusively by microbes. In this case, the different reversible (except for N~2~ to NH~4~ which only biologically occurs in one direction) reactions are mediated by different kinds of bacteria. These bacteria can be spatially separated, and use different forms of nitrogen as different kinds of substrates (as terminal electron acceptors, or as an electron donor in the case of nitrifying bacteria). The thermodynamic favorability of each reaction is also influenced by the availablility of other substrates (oxygen, organic matter) to help overcome thermodynamic barriers to reversible electron flow. 
+
+#####* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
+
+The Falkowsi paper describes how the nitrogen cycle partitions between different redox niches and microbial groups. The paper states that "[t]ypically, reduction and oxidation reactions are segregated in different organisms", and this is especially true in the nitrogen cycle. Some bacteria fix nitrogen, i.e. convert N~2~ gas into NH~4~. Other nitrifiers (archaea) oxidize ammonia to NO~2~^-^, and still others convert NO~2~^-^ to NO~3~^-^. Finally, yet other bacteria reverse the cycle use NO~2~^-^ and NO~3~^-^ as terminal electron acceptors in the absence of nitrogen, thus re-forming N~2~. 
+The Canfield paper describes the relationship between the nitrogen cycle and climate change. Specifically, N~2~O, a part of the nitrogen cycle, is a potent greenhouse gas.  
+
+#####* What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
+
+Metabolic diversity is not as large as, say, diversity in "boutique" or nonessential genes specific to particular environments. This is because metabolic genes are essential, and make up components of "multimeric microbial machines". Thus, they are more evolutionarily constrained than other kinds of genes due to their required interaction with other genes in the essential processes of energy transduction, DNA replication, et. cetera. Thus, even genes encoding imperfect proteins and enzymes (the Falkowski paper uses the D1 protein of photosystem II as an example) remain evolutionarily conserved. However, as other "nonessential" genes are not constrained in this manner, the discovery of new protein families is directly correlated with the sheer volume of sampling performed. It is these genes that show the extent of the microbial diverersity that has evolved over the last 4 billion years or so.   
+
+#####* On what basis do the authors consider microbes the guardians of metabolism?  
+Microbes are guardians of metabolism in that they preserve the metabolic pathways essential for life on earth, even if individual bacteria do not perform this specific reaction themselves. This allows a metabolic pathway to survive even when some of the bacteria that perform it become extinct. This is partially due to the phenomenon of horizontal gene transfer. Additionally, they control the ways that electrons flow on the planet's surface (and to some extent subsurface), and over billions of years have contributed to the formation of the current redox state of the earth as a whole. 
+
 ### Module 01 references
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
@@ -365,3 +394,7 @@ Kasting JF,and Siefert JL. 2003. Life and the Evolution of Earth's Atmosphere. S
 Nisbet EG, and Sleep NH. 2001. The habitat and nature of early life. Nature. 409: 1083-1091. 
 
 Orndoroff RC, et al. 2007. Divisions of Geologic Time - Major Chronostratigraphic and Geochronologic Units. Fact Sheet 2007-3015. U.S. Department of the Interior and U.S. Geological Survey. 
+
+Falkowski PC, et al. 2008. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science 320, 1034 (2008);DOI: 10.1126/science.1153213
+
+Canfield DE, et al. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science 330, 192 (2010);DOI: 10.1126/science.1186120
