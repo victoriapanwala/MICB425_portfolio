@@ -1,0 +1,85 @@
+---
+title: "Module_2_Portfolio"
+author: "Victoria Panwala (14028147)"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+---
+# Module_2
+
+### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
+#### Learning objectives: 
+Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
+*(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
+
+#### Specific Questions:
+* How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?
+  
+According to E. Stackebrandt, Woese initially identified 12 prokaryotic divisions. By 2003, 53 prokaryotic divisions had been recognized, of which 26 had no cultured representatives. Perhaps some have been cultured by now though.  
+
+In 2016, there were around 89 bacerial phyla and 20 archaeal phyla discovered via small 16s rRna databases. But there could be up to 1500 bacterial phyla are there are many microbes that live in the "shadow biosphere".
+
+* How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?
+
+This question is difficult to analyze because not all of these metagenome sequencing projects are stored in the same databases. There is GenBank, ebi, and some others. They are sourced from esentially every earthly environment, with some common ones being the human gut, sediments, soil, et cetera. Good candidates for metagenomic studies are complex environments which contain members that are hard to grow in lab cultures. 
+
+There are thousands metagenome sequencing projects, and this number is changing all of the time. According to the EBI database, there are 110217 sequencing projects stored there. Note: EBI stands for 
+
+* What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
+
+######Shotgun metagenomics
+Assembly - EULER
+Binning - S-GCOM
+Annotation - KEGG
+Analysis pipelines - MEGAN 5
+Databases- IMG/M, MG-RAST, NCBI, Note: there are many levels of curation in different databases.
+
+######Marker Gene metagenomics
+Standalone Software- OTUbase
+Analysis pipelines - SILVA
+Denoising - Amplicon Noise
+Databases- Ribosomal Database project (RDP)
+
+* What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?   
+
+Phylogenetic
+vertical gene transfer
+carry phylogenetic information
+taxonomic
+ideally single copy
+
+Functional
+more horixontal gene trans
+identify specific biogeochemical functions associated with measured effects
+
+* What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
+
+The process of grouping sequences that come from a single genome.
+
+Types of algoriths: 
+1)align sequences to database
+2) group to each other based on DNA characteristics: GC content, codon usage
+
+Risks and opportunities of binning: 
+Risks:
+incomplete coverage of genome sequence
+contamination from different phylogeny - some species can have similar DNA characteristics. Also, there is heterogeneity in species (for example e coli)
+
+* Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
+
+Functional screens (biochemical, etc)
+Third gen sequencing (nanopore) - essentially you sequence one whole genome at a time
+Single cell sequencing (flow cytometry then sequence)
+FISH probe
+
+### Module 02 references
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+Wooley J, et al. 2009. A Primer on Metagenomics. PLOS Computational Biology. Volume 6, Issue 2, e1000667
+
+Madsen EL. 2005. Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews: Microbiology. Opinion. Volume 3, May 2005. 
+
+Stackebrandt, E. (2012). Molecular identification, systematics, and population structure of prokaryotes. Place of publication not identified: Springer.
+
+https://www.ebi.ac.uk/services
