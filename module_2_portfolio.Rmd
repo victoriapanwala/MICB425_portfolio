@@ -73,6 +73,49 @@ Third gen sequencing (nanopore) - essentially you sequence one whole genome at a
 Single cell sequencing (flow cytometry then sequence)
 FISH probe
 
+### Evidence worksheet_04 "Bacterial Rhodopsin Gene Expression"
+
+#### What were the main questions being asked?
+
+Can you express a proteorhodopsin system in e coli and make it respond to light?
+
+Why is this proteorhodopsin pathway so distributed in bacteria in the ocean. 
+
+What are the functions of the proteorhodopsin system and its individual components in vivo, and how are they different from the predicted functions? 
+
+#### What were the primary methodological approaches used?
+
+Functional screening of a large fosmid library generated from a planktonic sample 
+
+HPLC analysis was used to identify the pigments in the PR systems
+
+Clones were analyzed for proton pumping activity of the PR system
+
+#### Summarize the main results or findings. 
+
+Two complete genetically distinct PR systems derived from the fosmid library were expressed in E. coli
+
+The function of the gene products of the pathway were elucidated using biochemical methods. 
+
+This provided evidence that a single genetic transfer event can introduce a complete PR photosystem, which in turn explains why this particular pathway is distributed in so many bacteria and archaea
+
+#### Do new questions arise from the results?
+
+Isn't there an easier way to identify the PR system in a metagenomic sample than functional screening?  
+How much is the PR system expressed in the bacteria that possess it in the ocean? In the organisms in which it is expressed, to what degree does it contribute to metabolism?
+
+Is there a genetic background more predisposed to the horizontal gene transfer of this system?
+
+The paper mentions that PR expression in marine bacteria may benefit the bacterium in ways not correlated with increased growth rates and yields. What would be this benefit? Would they be more adaptable to new environments?
+
+Why is the PR system more distributed in marine bacteria?
+
+What causes the expression of the PR system in marine bacteria?
+
+#### Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+How did they measure the rate of proton pumping in the e. coli clones?
+
 ### Module 02 references
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
@@ -83,3 +126,5 @@ Madsen EL. 2005. Identifying microorganisms responsible for ecologically signifi
 Stackebrandt, E. (2012). Molecular identification, systematics, and population structure of prokaryotes. Place of publication not identified: Springer.
 
 https://www.ebi.ac.uk/services
+
+Martinez et al., PNAS 2007.pdf "Bacterial Rhodopsin Gene Expression"
