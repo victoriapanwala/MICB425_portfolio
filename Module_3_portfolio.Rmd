@@ -1,0 +1,64 @@
+---
+title: "Module 3 Portfolio"
+author: "Victoria Panwala (14028147)"
+date: "3/19/2018"
+output: 
+  html_document:
+    toc: true
+---
+
+Module 3 Microbial Species Concepts
+
+###Evidence worksheet_05 “Extensive mosaic structure”
+
+General Questions:
+
+#####• What were the main questions being asked?
+
+How different are bacteria (even those that technically belong to the same species) genetically?
+What defines a species? 
+What proteins are shared between these three strains of E. coli? Can we use this information to infer a bit about the evolutionary history of each strain?
+What about island genes and horizontal transfer? Can we use the different codon usage patterns of island genes to infer whether the island genes were horizontally transfered?
+
+#####• What were the primary methodological approaches used?
+
+Essentially just cloning, sequencing, and then sequence analysis and annotation. 
+They created whole genome libraries from genomic DNA of the three strains and then sequenced the clones. They used the programs MAGPIE and GLIMMER to annotate the genome and find the ORFs, and then used BLAST to find the predicted protein products. 
+They also analyzed different codon usage patterns to identify island genes gained by horizontal gene tranfer (a long time ago).
+
+#####• Summarize the main results or findings. 
+
+The considerable variation in these E. coli lineages or strains to allow them to occupy different ecological niches. This indicates that these extraintestinal E. coli have evolved fairly independently from one another.
+
+Interestingly, there are some "universal insertion targets" in the E. coli genome, that are the site for insertion of DNA from horizontal gene transfer (even though the genes transferred differ between the strains) for all of the strains surveyed. Specifically, it is interesting that these sites are more likely to incorporate foreign DNA than elsewhere in the genome.
+ 
+#####• Do new questions arise from the results?
+
+How do we define E. coli as a species? Does the fact that these organisms have essentially evolved to occupy different biological niches indicate that they should be characterized as different species?
+
+#####• Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+ 
+Part 2: Learning objectives: 
+
+#####•	Comment on the creative tension between gene loss, duplication and acquisition as it relates to microbial genome evolution
+
+The gain and loss of genes, and the diversity that arises from this paradigm is mediated by natural selection. 
+If you don't aquire specialized genes to survive in diverse environments, you will not be able to survive period. This both mediates gain of unique genetic elements, and loss of genetic elements no longer required for survival in said environment: genetic dead weight.
+
+#####•	Identify common molecular signatures used to infer genomic identity and cohesion
+
+Some common signature they used in the paper was type III secretion systems, partial prophage genomes, fimbrial adhesins, iron sequestration stems, autotransporters, and phase-switch recombinases. They also used patterns of island appearance vs backbone DNA (identified using different codon usage patterns) too.
+
+#####•	Differentiate between mobile elements and different modes of gene transfer
+
+#####Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
+
+An ecotype is a distinct form of a species that occupies a specific niche. For example, in the context of E. coli and the human body, enterohemorrhagic and uropathogenic strains of E. coli are different ecotypes because they inhabit different "environments" or niches in the human body (urinary tract vs gastrointestinal system). 
+
+In the diagram, CFT073 appears to possess a variety of pap proteins that the enterohemorrhagic strain EDL933 does not posess. This is likely because pap proteins are used to assemble a pilus necessary for attatchment of E. coli to host cell surfaces. This pilus is necessary in uropathogenic e coli like CFT073 because in order to cause infection, they must be resistant to mechanical force from the urine stream. Enterohemorragic e. coli do not necesarily require this "sticky" phenotype in order to cause infection. Therefore, I would hypothesize that these pap genes were obtained during a horizontal gene transfer event early on in the evolutionary history of the CFT073 strain, and would be common to other strains of uropathogenic e. coli. That, or the pap pilus is a backbone gene that has been deleted from the EDL933 strain genome due to lack of use. 
+
+### Module 03 references
+Rockstrom J, et al. 2009. "A safe operating space for humanity" Nature.
+
+Welch RA, Burland V, Plunkett G, et al. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proceedings of the National Academy of Sciences of the United States of America. 2002;99(26):17020-17024. doi:10.1073/pnas.252529799. 
+
