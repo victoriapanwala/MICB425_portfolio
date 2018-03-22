@@ -8,7 +8,7 @@ output:
 ---
 # Module_2
 
-### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
+## Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
 #### Learning objectives: 
 Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
 *(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
@@ -73,7 +73,7 @@ Third gen sequencing (nanopore) - essentially you sequence one whole genome at a
 Single cell sequencing (flow cytometry then sequence)
 FISH probe
 
-### Evidence worksheet_04 "Bacterial Rhodopsin Gene Expression"
+## Evidence worksheet_04 "Bacterial Rhodopsin Gene Expression"
 
 #### What were the main questions being asked?
 
