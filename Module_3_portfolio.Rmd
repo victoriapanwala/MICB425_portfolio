@@ -9,7 +9,7 @@ output:
 
 Module 3 Microbial Species Concepts
 
-###Evidence worksheet_05 “Extensive mosaic structure”
+#Evidence worksheet_05 “Extensive mosaic structure”
 
 General Questions:
 
@@ -56,6 +56,123 @@ Some common signature they used in the paper was type III secretion systems, par
 An ecotype is a distinct form of a species that occupies a specific niche. For example, in the context of E. coli and the human body, enterohemorrhagic and uropathogenic strains of E. coli are different ecotypes because they inhabit different "environments" or niches in the human body (urinary tract vs gastrointestinal system). 
 
 In the diagram, CFT073 appears to possess a variety of pap proteins that the enterohemorrhagic strain EDL933 does not posess. This is likely because pap proteins are used to assemble a pilus necessary for attatchment of E. coli to host cell surfaces. This pilus is necessary in uropathogenic e coli like CFT073 because in order to cause infection, they must be resistant to mechanical force from the urine stream. Enterohemorragic e. coli do not necesarily require this "sticky" phenotype in order to cause infection. Therefore, I would hypothesize that these pap genes were obtained during a horizontal gene transfer event early on in the evolutionary history of the CFT073 strain, and would be common to other strains of uropathogenic e. coli. That, or the pap pilus is a backbone gene that has been deleted from the EDL933 strain genome due to lack of use. 
+
+#Problem set_04 “Fine-scale phylogenetic architecture”
+```{r}
+#To make tables
+library(kableExtra)
+library(knitr)
+#To manipulate and plot data
+library(tidyverse)
+```
+```{r}
+sample_data1 = data.frame(
+  number = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14),
+  name = c("vine", "bricks", "skittles", "mike & ikes", "gummy bears", "M & Ms", "Hershey Kisses", "Sour bear", "Sour fruit", "Sour hexa", "Sour bottle", "Sour swirl", "Jujubes", "wine candy"),
+  characteristics = c("red vines", "candy lego bricks", "not m and ms", "mike and ikes", "bear shaped", "not skittles", "foil wrapped", "bear shaped and sour", "sour and a fruit", "sour and hexagon shaped", "sour and bottle shaped", "sour and swirly", "honestly not sure what these look like", "wine shaped but not alcoholic"),
+  occurences = c(14, 18, 187, 174, 101, 241, 16, 3, 2, 6, 3, 3, 24, 9)
+)
+```
+####This data is from Nishi, Jack, John, Leilnaz, and Helen's group - they provided me with the species count data. 
+```{r}
+sample_data1 %>% 
+  kable("html") %>%
+  kable_styling(bootstrap_options = "striped", font_size = 10, full_width = F)
+```
+No matter how many samples you take, you can never say for certain that you have collected a sample that accurately portrays the diversity of the environment. All you can do is reduce the chance that you have taken an unrepresentative sample, by taking multiple (large) samples. Given the size of the metagenomic data set, I would say that the majority of different species possible were sampled. 
+
+####Part 2: collector's curve
+```{r}
+sample_data2 = data.frame(
+  x = c(1,2,3,4,5,6,7,8,9,10),
+  y = c(1,2,3,4,4,5,5,5,6,6)
+)
+```
+```{r}
+ggplot(sample_data2, aes(x=x, y=y)) +
+  geom_point() +
+  geom_smooth() +
+  labs(x="Cumulative number of individuals classified", y="Cumulative number of species observed")
+```
+Note: did not have the data for this portion. I just included the code so that I would have it for future reference. However, I would say that if the curve flattens out, you have taken a large enough sample of your environment for it to be fairly representative of said environment. 
+
+####Part 3: Diversity Estimates
+Diversity: Simpson Reciprocal index calculation 
+Simpson reciprocal index for total community.
+```{r}
+species1 = 14/(736)
+species2 = 18/(736)
+species3 = 187/(736)
+species4 = 174/(736)
+species5 = 101/(736)
+species6 = 241/(736)
+species7 = 16/(736)
+species8 = 3/(736)
+species9 = 2/(736)
+species10 = 6/(736)
+species11 = 3/(736)
+species12 = 3/(736)
+species13 = 24/(736)
+species14 = 9/(736)
+
+1 / (species1^2 + species2^2 + species3^2 + species4^2 + species5^2 + species6^2 + species7^2 + species8^2 + species9^2 + species10^2 + species11^2 + species12^2 + species13^2 + species14^2)
+```
+Simpson Reciprocal index for a smaller sample of that community: (sample)
+```{r}
+species1 = 2/(153)
+species2 = 5/(153)
+species3 = 37/(153)
+species4 = 30/(153)
+species5 = 19/(153)
+species6 = 64/(153)
+species7 = 2/(153)
+species8 = 0/(153)
+species9 = 1/(153)
+species10 = 0/(153)
+species11 = 0/(153)
+species12 = 0/(153)
+species13 = 8/(153)
+species14 = 3/(153)
+
+1 / (species1^2 + species2^2 + species3^2 + species4^2 + species5^2 + species6^2 + species7^2 + species8^2 + species9^2 + species10^2 + species11^2 + species12^2 + species13^2 + species14^2)
+```
+
+
+
+Richness: Chao1 richness estimator of entire community
+```{r}
+14 + 0^2/(2*14)
+```
+Chao1 Richness estimator of sample: (smaller sample of the community)
+```{r}
+14 + 1^2/(2*9)
+```
+
+
+####Part 4: Alpha-diversity functions in R
+```{r}
+library(vegan)
+```
+```{r}
+sample_data1_diversity = 
+  sample_data1 %>% 
+  select(name, occurences) %>% 
+  spread(name, occurences)
+
+sample_data1_diversity
+```
+```{r}
+diversity(sample_data1_diversity, index="invsimpson")
+```
+```{r}
+specpool(sample_data1_diversity)
+```
+####Part 5: Concluding questions
+1) The measure of diversity depends on the definition of species in your samples because diversity estimates are calculated using the number of species that you find. If you use a different species definition when processing your sample (i.e. 98% genetic similarity vs something like 90%) you will get different numbers for your simpson reciprocal index and chao1 richness estimator. This would change your collectors curve too.
+
+2) Yes, you could define species as both the type of candy (which they did) AND the color of the candy. So a blue skittle would be considered a different species than a green skittle. 
+
+3) Different sequencing technologies could influence observed diversity in a sample due to inherent bias when it comes to sequencing the data. For example, if your sequencing technology includes amplifying all sequences using universal primers, you will inevitably skew your data to favor some sequences because there is no such thing as a truly universal primer. 
 
 ### Module 03 references
 Rockstrom J, et al. 2009. "A safe operating space for humanity" Nature.
