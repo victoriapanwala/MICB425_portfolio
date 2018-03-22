@@ -386,6 +386,30 @@ Metabolic diversity is not as large as, say, diversity in "boutique" or nonessen
 #####* On what basis do the authors consider microbes the guardians of metabolism?  
 Microbes are guardians of metabolism in that they preserve the metabolic pathways essential for life on earth, even if individual bacteria do not perform this specific reaction themselves. This allows a metabolic pathway to survive even when some of the bacteria that perform it become extinct. This is partially due to the phenomenon of horizontal gene transfer. Additionally, they control the ways that electrons flow on the planet's surface (and to some extent subsurface), and over billions of years have contributed to the formation of the current redox state of the earth as a whole. 
 
+###Evidence worksheet 03
+I choose the paper "A safe operating space for humanity" by Rockstrom et al
+
+####* What were the main questions being asked?
+What are the "planetary boundaries" that define environmental change in the Anthropocene?
+How do we identify and quantify these boundaries? 
+How much "wiggle room" does humanity have to surpass these boundaries?
+How do these biogeochemical processes which mark the planetary boundaries effect one another?
+
+####* What were the primary methodological approaches used?
+This particular paper was really more of a review, or a compilation of previously published or estimated data incorporated into a new context. Therefore, there wasn't really a methods section. They were very careful to explain the limitations of drawing larger conclusions from these larger scale data sets, and the limitations in collecting data concerning specific planetary boundaries. For example, in table 1, atmospheric aerosol loading and chemical polution both had no data sets to display. 
+
+####* Summarize the main results or findings. 
+They identified nine planetary boundaries: "climate change; rate of biodiversity loss (terrestrial and marine); interference with the nitrogen and phosphorus cycles; stratospheric ozone depletion; ocean acidification; global fresh- water use; change in land use; chemical pollution; and atmospheric aerosol loading" 
+The paper presents evidence that three of these boundaries have been overstepped. 
+
+####* Do new questions arise from the results?
+To what degree do environmental perturbations affect each other? The paper mentions "long term reinforcing feedback processes" such as decreases in vegetation cover that contribute to further climate change. The paper states that "If one boundary is transgressed, then other boundaries are also under serious risk.""
+How would one quantify chemical pollution and atmospheric aerosol loading in a global setting?
+What is the timeline for the effects of transgressing environmental boundaries to become visible? Does it depend on the specific boundary that was crossed? 
+
+####* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+The paer mentions staying on the "safe side" of atmospheric and enviromental boundaries, but it doesn't mention where exactly this is. To be fair, this a very difficult thing to quantify or even estimate. It also depends on your definition of "safe"
+
 ### Writing Assignment
 Victoria Panwala
 
@@ -414,30 +438,6 @@ References:
 9)	Burkholder, P. R., & McVeigh, I. (1942). Synthesis of Vitamins by Intestinal Bacteria. Proceedings of the National Academy of Sciences of the United States of America, 28(7), 285-289.
 10)	LeBlanc, J. G., Milani, C., de Giori, G. S., Sesma, F., van Sinderen, D., & Ventura, M. (2013). Bacteria as vitamin suppliers to their host: A gut microbiota perspective. Current Opinion in Biotechnology, 24(2), 160-168. 10.1016/j.copbio.2012.08.005
 11)	Gougoulias, C., Clark, J. M., & Shaw, L. J. (2014). The role of soil microbes in the global carbon cycle: tracking the below-ground microbial processing of plant-derived carbon for manipulating carbon dynamics in agricultural systems. Journal of the Science of Food and Agriculture, 94(12), 2362-2371. http://doi.org/10.1002/jsfa.6577
-
-###Evidence worksheet 03
-I choose the paper "A safe operating space for humanity" by Rockstrom et al
-
-####* What were the main questions being asked?
-What are the "planetary boundaries" that define environmental change in the Anthropocene?
-How do we identify and quantify these boundaries? 
-How much "wiggle room" does humanity have to surpass these boundaries?
-How do these biogeochemical processes which mark the planetary boundaries effect one another?
-
-####* What were the primary methodological approaches used?
-This particular paper was really more of a review, or a compilation of previously published or estimated data incorporated into a new context. Therefore, there wasn't really a methods section. They were very careful to explain the limitations of drawing larger conclusions from these larger scale data sets, and the limitations in collecting data concerning specific planetary boundaries. For example, in table 1, atmospheric aerosol loading and chemical polution both had no data sets to display. 
-
-####* Summarize the main results or findings. 
-They identified nine planetary boundaries: "climate change; rate of biodiversity loss (terrestrial and marine); interference with the nitrogen and phosphorus cycles; stratospheric ozone depletion; ocean acidification; global fresh- water use; change in land use; chemical pollution; and atmospheric aerosol loading" 
-The paper presents evidence that three of these boundaries have been overstepped. 
-
-####* Do new questions arise from the results?
-To what degree do environmental perturbations affect each other? The paper mentions "long term reinforcing feedback processes" such as decreases in vegetation cover that contribute to further climate change. The paper states that "If one boundary is transgressed, then other boundaries are also under serious risk.""
-How would one quantify chemical pollution and atmospheric aerosol loading in a global setting?
-What is the timeline for the effects of transgressing environmental boundaries to become visible? Does it depend on the specific boundary that was crossed? 
-
-####* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
-The paer mentions staying on the "safe side" of atmospheric and enviromental boundaries, but it doesn't mention where exactly this is. To be fair, this a very difficult thing to quantify or even estimate. It also depends on your definition of "safe"
 
 ### Module 01 references
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
