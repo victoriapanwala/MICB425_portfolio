@@ -12,7 +12,7 @@ Include **separate** completed versions of this document for Project 1 **and** P
 
 ### Editing
 
-Edited the abstract a bit. Initially it said that only oxygen concentrations were significant, but they werent, it was NH4 concentrations only for the OTU based data.
+Edited the abstract a bit. Initially it said that only oxygen concentrations were significant, but they werent, it was NH4 concentrations only for the OTU based data. After we recieved the feedback on project 1, I also made the suggested edits.
 
 ## Introduction
 
@@ -26,14 +26,14 @@ I wrote the first draft of the introduction. Note: Ian wrote and edited a good p
 
 ### Editing
 
-I edited the introduction as well, and combined my and Ian's sections on planctomycetes.  
+I edited the introduction as well, and combined my and Ian's sections on planctomycetes. After we recieved the feedback on project 1, I also made the suggested edits.
 
 ## Methods
 ### Writing
 
 ### Editing
 
-I made some gramatical edits to the methods section after it was written. I also compiled the total reference list: since we each worked on the sections separately, there were reference sections for each of the individual sections.  
+I made some gramatical edits to the methods section after it was written. I also compiled the total reference list: since we each worked on the sections separately, there were reference sections for each of the individual sections. After we recieved the feedback on project 1, I also made the suggested edits. 
 
 ## Results
 ### Anaysis 
@@ -56,7 +56,7 @@ I wrote the first draft of the section on the Abundance of Planctomycetes across
 
 ### Editing
 
-Made some gramatical changes in the analysis of figures 3a-f and table 1.
+Made some gramatical changes in the analysis of figures 3a-f and table 1. After we recieved the feedback on project 1, I also made the suggested edits.
 
 ## Discussion
 
@@ -67,8 +67,10 @@ Found and cited source 18.
 ### Writing
 
 I began writing the first draft of the discussion section (the part on planctomycetes abundance across depth). 
-After the other members of my group did some more work on the discussion section, I rewrote and lengthened the part on the relationship of planctomycetes and oxygen (paragraph 2) to help bring it up to 750 words (from 494 words)
+After the other members of my group did some more work on the discussion section, I rewrote and lengthened the part on the relationship of planctomycetes and oxygen (paragraph 2) to help bring it up to 750 words (from 494 words).
+
+I also added another paragraph on some of the reasons for the differences between OTU and ASV data, and the reasons why significance varies for the same linear relationship analysis conducted using data from both pipelines. The addition of this paragraph brought the discussion section up to 750 words.
 
 ### Editing
 
-I also edited the discussion to make it more concise, and free of grammatical errors. 
+I also edited the discussion to make it more concise, and free of grammatical errors. After we recieved the feedback on project 1, I also made the suggested edits.

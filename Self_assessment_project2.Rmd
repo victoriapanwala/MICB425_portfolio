@@ -1,0 +1,61 @@
+---
+title: "Project self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+Include **separate** completed versions of this document for Project 1 **and** Project 2 in your portfolio repo; they do not need to be incorporated into the final knit portfolio html.
+
+## Abstract
+### Writing
+
+### Editing
+
+
+## Introduction
+### Literature research
+
+I found some of the basic sources on the Saanich inlet background that I worked on. Actually, we were able to use a lot of the same ones that I found in project 1 for this section. 
+
+### Writing
+
+I wrote the first paragraph of the introduction
+
+### Editing
+
+
+## Methods
+### Writing
+
+### Editing
+
+
+## Results
+### Anaysis 
+
+### Figures
+
+I manipulated the DNA and RNA data in excel and shared it on the google doc. I also made Figure 1: Abundance of the nirK gene DNA vs RNA at different depths, and Figure 3a: Abundance of Phyla containing nirK by depth (DNA), Figure 3b: Abundance of Phyla containing nirK by depth (RNA), Figure 3c: Abundance of Classes with nirK by depth (DNA), and Figure 3d: Abundance of Classes with nirK by depth (RNA). I also made one of the DNA iTol figures, I believe the one at 100 m. 
+
+### Writing
+
+I wrote the analysis of Figure 3a: Abundance of Phyla containing nirK by depth (DNA), Figure 3b: Abundance of Phyla containing nirK by depth (RNA), Figure 3c: Abundance of Classes with nirK by depth (DNA), and Figure 3d: Abundance of Classes with nirK by depth (RNA). 
+
+I also wrote the analysis of Figure 1: Abundance of the nirK gene DNA vs RNA at different depths, and the analysis of Figure 2:(A) Nitrite concentration throughout the water column. (B) Abundance of Phyla with nirK DNA (pink) and RNA (blue) at different depths.
+### Editing
+
+
+## Discussion
+### Literature research
+
+I found the source Braker, G., et al. “Nitrite Reductase Genes (NirK and NirS) as Functional Markers To Investigate Diversity of Denitrifying Bacteria in Pacific Northwest Marine Sediment Communities.” Applied and Environmental Microbiology, vol. 66, no. 5, Jan. 2000, pp. 2096–2104., doi:10.1128/aem.66.5.2096-2104.2000. Which was very useful as the difference between the two enzymes it was studied in pacific northwest maring sediments, which the Saanich Inlet is a part of. 
+
+I also found the source "Highly diverse nirK genes comprise two major clades that harbour ammonium-producing denitrifiers" which provided information on the evolutionary history and distribution of the nirK gene. I used this source when talking about the possibility of horizontal gene transfer or nirK. 
+
+### Writing
+
+I began writing the discussion, beginning with a description of the importance of nirK in the broader context of denitrification and ending with the paragaph summarizing some of our results in the context of the evolutionary history of nirK. (322 words)
+
+### Editing
+
