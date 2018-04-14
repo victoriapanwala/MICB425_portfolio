@@ -6,37 +6,23 @@ output:
   html_document:
     toc: true
 ---
-# Module 01
-Reserve the first level headings (#) for the start of a new Module. This will help to organize your portfolio in an intuitive fashion.  
-**Note: Please edit this template to your heart's content. This is meant to be the armature upon which you build your individual portfolio. You do not need to keep this instructive text in your final portfolio, although you do need to keep module and assignment names so we can identify what is what.**
 
+### Module 01 Portfolio Content
 
-## Module 01 portfolio check
-The first of your second level headers (##) is to be used for the portfolio content checks. The Module 01 portfolio check has been built for you directly into this template, but will also be available as a stand-alone markdown document available on the MICB425 GitHub so that you know what is required in each module section in your portfolio. The completion status and comments will be filled in by the instructors during portfolio checks when your current portfolios are pulled from GitHub.
-
-* Installation check
-    + Completion status:
-    + Comments:
-* Portfolio repo setup
-    + Completion status: 
-    + Comments:
-* RMarkdown Pretty html Challenge
-    + Completion status:
-    + Comments:
 * Evidence worksheet_01
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Evidence worksheet_02
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Evidence worksheet_03
     + Completion status:
     + Comments:
 * Problem Set_01
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Problem Set_02
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Writing assessment_01
     + Completion status:
@@ -44,6 +30,79 @@ The first of your second level headers (##) is to be used for the portfolio cont
 * Additional Readings
     + Completion status:
     + Comments  
+
+### Data Science
+
+* Installation check
+    + Completion status: X
+    + Comments:
+* Portfolio repo setup
+    + Completion status: X
+    + Comments:
+* RMarkdown Pretty PDF Challenge
+    + Completion status: X
+    + Comments:
+* ggplot
+    + Completion status: 5.5/10
+    + Comments:
+    + Exercise 1 should be filled in purple triangles.
+    + Exercise 2 is missing.
+    + Exercise 4. Try using face_wrap instead of facet_grid. Also, a geom_line is needed to add the lines between the points.
+    
+## Module 02 Portfolio Content
+
+* Evidence worksheet_04
+    + Completion status:
+    + Comments:
+* Problem Set_03
+    + Completion status:
+    + Comments:
+* Writing assessment_02
+    + CANCELED
+* Additional Readings
+    + Completion status:
+    + Comments 
+    
+## Module 03 Portfolio Content
+
+* Evidence worksheet_05
+    + Completion status:
+    + Comments:
+* Problem set_04
+    + Completion status:
+    + Comments:
+* Writing Assessment_03
+    + Completion status:
+    + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments 
+    
+### Project 1
+
+* CATME account setup and survey
+    + Completion status: X
+    + Comments: 
+* CATME interim group assessment
+    + Completion status: X
+    + Comments:
+* Project 1
+    + Report (80%): 
+    + Participation (20%):
+    
+## Module 04 Portfolio Content
+### Project 2
+
+* CATME final group assessment
+    + Completion status: 
+    + Comments:
+* Project 2
+    + Report (80%): 
+    + Participation (20%):
+    
+# Module 01
+Reserve the first level headings (#) for the start of a new Module. This will help to organize your portfolio in an intuitive fashion.  
+**Note: Please edit this template to your heart's content. This is meant to be the armature upon which you build your individual portfolio. You do not need to keep this instructive text in your final portfolio, although you do need to keep module and assignment names so we can identify what is what.**
     
 ## Data science Friday  
 The remaining second level headers (##) are for separating data science Friday, regular course, and project content. In this module, you will only need to include data science Friday and regular course content; projects will come later in the course.
@@ -115,7 +174,7 @@ And now you’ve almost finished your first RMarkdown! Feeling excited? We are! 
 ![can this do gifs?](https://media.giphy.com/media/3o7TKxlVXJsQsDX2og/giphy.gif))
 
 ## Origins and Earth Systems
-### Evidence worksheet 01 
+## Evidence worksheet 01 
 The template for the first Evidence Worksheet has been included here. The first thing for any assignment should link(s) to any relevant literature (which should be included as full citations in a module references section below).
 
 You can copy-paste in the answers you recorded when working through the evidence worksheet into this portfolio template. 
@@ -181,7 +240,7 @@ The estimates described in the paper introduce a large amount of uncertainty bec
 
 Lastly, the estimates for each environment were likely collected using different methods- and by different people. Therefore, each method probably has its own pros and cons, and contributes its own level of uncertainty to the proceeding estimates.   
 
-### Problem set 01
+# Problem set 01
 
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 [Kasting JF,and Siefert JL. 2003.](https://www.ncbi.nlm.nih.gov/pubmed?term=Science%5BJour%5D+AND+Life+and+the+Evolution+of+Earth’s+Atmosphere&TransSchema=title&cmd=detailssearch)
@@ -282,7 +341,7 @@ However, it is foolhardy to assume that point mutations are the only way that mi
 
 Based on the information provided in the text, I would say that prokaryotic abundance and metabolic potential is highly related to the diversity of organisms present in the biosphere. Given the large abundance of prokaryotic life, and its correspondingly large mutation rate, over the course of geologic time this has generated an incredibly diverse set of metabolic capabilities of individual prokaryotes. These different metabolic abilities have enabled prokaryotes to colonize the entire biosphere (24-34 km of the earth's surface, subsurface, and lower atmosphere).
 
-### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
+#Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
 #### Learning objectives: 
 Comment on the emergence of microbial life and the evolution of Earth systems
     
@@ -357,7 +416,7 @@ The Precambrian Supereon stretches from 4.6 Gyr - 0.56 Gyr, and contains the Had
 
 0.56 Gyr to present day. This eon encompasses the development of land plants and land life, as well as the origins of most of the recognized animal phyla to this day. This comparatively small (considering the extent of the precambrian superepoch) epoch also contains several planetary extinction events establishment of land masses as we know them today. 
 
-### Problem set 02
+##Problem set 02
 #### Learning objectives: 
 Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
 
@@ -386,7 +445,7 @@ Metabolic diversity is not as large as, say, diversity in "boutique" or nonessen
 #####* On what basis do the authors consider microbes the guardians of metabolism?  
 Microbes are guardians of metabolism in that they preserve the metabolic pathways essential for life on earth, even if individual bacteria do not perform this specific reaction themselves. This allows a metabolic pathway to survive even when some of the bacteria that perform it become extinct. This is partially due to the phenomenon of horizontal gene transfer. Additionally, they control the ways that electrons flow on the planet's surface (and to some extent subsurface), and over billions of years have contributed to the formation of the current redox state of the earth as a whole. 
 
-###Evidence worksheet 03
+#Evidence worksheet 03
 I choose the paper "A safe operating space for humanity" by Rockstrom et al
 
 ####* What were the main questions being asked?
@@ -410,36 +469,51 @@ What is the timeline for the effects of transgressing environmental boundaries t
 ####* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
 The paer mentions staying on the "safe side" of atmospheric and enviromental boundaries, but it doesn't mention where exactly this is. To be fair, this a very difficult thing to quantify or even estimate. It also depends on your definition of "safe"
 
-### Writing Assignment
+## Writing Assignment 01
 Victoria Panwala
 
 Student Number: 14028147
 
 Module 1 Writing Assignment
 
-Microbial life exists all around us. Microbes persist up to 4 kilometers below our feet, and 20 kilometers above our heads(1). Indeed, it is difficult to find an environment on earth that has not been colonized in some way by microbial life. Thermophilic bacteria can survive in temperatures up to 122  C(2), and chemoautotrophs have even evolved to obtain energy from the oxidation of substances like hydrogen sulfide(3). Not only have microbes been involved in making the earth habitable for multicellular life, they are also responsible for creating environmental conditions essential for life today. Processes such as the nitrogen cycle, the carbon cycle, the production of vitamins, and the decomposition of recalcitrant materials could not proceed at the same rates without input from microbes. Thus, if not for microbial life, humans would not, and could not, exist. 
-While the exact time frame of the life's appearance on our planet is hotly debated - geological evidence points to somewhere between 4 and 3.5 billion years ago - its microbial nature is not(4). Microbes existed for billions of years before complex multicellular life arose, and transformed the environment of the early earth. Before the advent of oxygenic photosynthesis carried out by cyanobacteria, the Archaean Earth was an anoxic place. Methanogens, likely archaea, created an atmosphere which contained much more methane than the one that exists today. The greenhouse effects of this methane exerted a warming effect on the early earth, compensating for a sun that was considerably dimmer(5). Once oxygenic photosynthesis became a prominent contributor to the oxygen content of the earth's atmosphere, this altered environmental conditions considerably. For example, this phenomenon allowed for the formation of the ozone layer that we rely on for protection today(5). In fact, even now that multicellular eukaryotic plants are also capable of performing photosynthesis, heterotrophic respiration requiring oxygen negates most of the oxygenic input from terrestrial systems. It is only in marine environments, where photosynthesis is performed primarily by microbes, that a net source of oxygen is released to the earth's atmosphere. This is because a small amount of organic matter synthesized by these microbes is "buried" in marine sediments, away from oxygen consuming heterotrophs(5). Thus, microbes in general, and oxygenic cyanobacteria in particular, are responsible for creating the conditions required for life as we know it.
+Prompt: "Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides." Do you agree or disagree with this statement? Answer the question using specific reference to your reading, discussions and content from evidence worksheets and problem sets. 
 
-Although nitrogen gas makes up about 78% of our atmosphere, biologically available nitrogen sources are in somewhat shorter supply. In order to be utilized by organisms (including humans), nitrogen gas must first be fixed from its inert N2 gas form. The processes of nitrification and denitrification- which closes the nitrogen cycle by once again creating inert N2 gas- are both catalyzed by microbes(6). Indeed, eukarya do not possess the nitrogenase gene required for nitrogen fixation, it is only present in the microbial domains of archaea and bacteria(7). Even in the well-studied cases of nitrogen fixing bacterial symbionts living in the root nodules of legumes, horizontal gene transfer has not distributed this particular metabolic pathway between the two organisms(7). Forced to obtain ever greater amounts of nitrogen for food-production purposes, humankind has resorted to the industrial Haber process to produce ammonia-containing fertilizer. Nowadays, fossil fuel use and the Haber process account for 45% of the annual nitrogen fixation on earth(6). This is not an insignificant nitrogen fixation flux, but it is still folly to assume that humans could control the global nitrogen cycle without input from microbial sources. Aquatic environments still rely on microbial nitrogen-fixers to provide usable forms of nitrogen for primary production. Due to the importance of this environment as a carbon sink(8), the disappearance of this microbial pathway would have a large effect on oceanic production, and the global carbon cycle. Therefore, even though we are capable of fixing our own nitrogen, the regulation of the nitrogen cycle by prokaryotes is essential for our survival as a species.  
+Microbial life exists all around us. Microbes persist up to 4 kilometers below our feet, and 20 kilometers above our heads(1). Indeed, it is difficult to find an environment on earth that has not been colonized in some way by microbial life. Thermophilic bacteria can survive in temperatures up to 122 C(2), and chemoautotrophs have even evolved to obtain energy from the oxidation of substances like hydrogen sulfide(3). Not only have microbes been involved in making the earth habitable for multicellular life, they are also responsible for creating the environmental conditions essential for life today. Processes such as the nitrogen cycle, the carbon cycle, the production of vitamins, and the decomposition of recalcitrant materials could not proceed at the same rates without input from microbes. Thus, if not for microbial life, humans would not, and could not, exist. 
 
-Humans and other organisms require a variety of essential micronutrients to perform basic metabolic processes. Often, these micronutrients, also known as vitamins, are precursors or cofactors of metabolic enzymes. While many microbes can synthesize these on their own, humans must obtain most vitamins exogenously(9,10). Some of these vitamins are obtained from the food that we eat, and absorbed by the human digestive tract. Still others are synthesized by our very own microbiota that persists in the gastrointestinal tract. Metagenomic studies of human gut commensals have shown that collectively, they possess many of the biosynthetic pathways required for vitamins synthesis. B vitamins in particular (folate, riboflavin, B12, niacin, pyridoxine, et cetera) are often synthesized by lactobacilli living in the human gut(10). In a world without microbes, these essential biosynthetic processes would be halted, and humans and other organisms would become rapidly vitamin-deficient.
+While the exact time frame of life’s appearance on our planet is hotly debated – geological evidence points to somewhere between 4 and 3.5 billion years ago – its microbial nature is not(4). Microbes existed for billions of years before complex multicellular life arose, and transformed the environment of the early earth. Before the advent of oxygenic photosynthesis carried out by cyanobacteria, the Archaean Earth was an anoxic place. Methanogens, likely archaea, created an atmosphere which contained much more methane than the one that exists today. The greenhouse effects of this methane exerted a warming effect on the early earth, compensating for a sun that was considerably dimmer(5). Once oxygenic photosynthesis became a prominent contributor to the oxygen content of the earth’s atmosphere, this altered environmental conditions considerably. For example, this phenomenon allowed for the formation of the ozone layer that we rely on for protection today(5). In fact, even now that multicellular eukaryotic plants are also capable of performing photosynthesis, heterotrophic respiration requiring oxygen negates most of the oxygenic input from terrestrial systems. It is only in marine environments, where photosynthesis is performed primarily by microbes, that a net source of oxygen is released to the earth’s atmosphere. This is because a small amount of organic matter synthesized by these microbes is “buried” in marine sediments, away from oxygen consuming heterotrophs(5). Thus, microbes in general, and oxygenic cyanobacteria in particular, are responsible for creating the conditions required for life as we know it.
+
+Although nitrogen gas makes up about 78% of our atmosphere, biologically available nitrogen sources are in somewhat shorter supply. In order to be utilized by organisms (including humans), nitrogen gas must first be fixed from its inert N2 gas form. The processes of nitrification and denitrification- which closes the nitrogen cycle by once again creating inert N2 gas- are both catalyzed by microbes(6). Indeed, eukarya do not possess the nitrogenase gene required for nitrogen fixation, it is only present in the microbial domains of archaea and bacteria(7). Even in the well-studied cases of nitrogen fixing bacterial symbionts living in the root nodules of legumes, horizontal gene transfer has not distributed this particular metabolic pathway between the two organisms(7). Forced to obtain ever greater amounts of nitrogen for food-production purposes, humankind has resorted to the industrial Haber Bosch process to produce ammonia-containing fertilizer. Nowadays, fossil fuel use and the Haber Bosch process account for 45% of the annual nitrogen fixation on earth(6). This is not an insignificant nitrogen fixation flux, but it is still folly to assume that humans could control the global nitrogen cycle without input from microbial sources. Aquatic environments still rely on microbial nitrogen-fixers to provide usable forms of nitrogen for primary production. Due to the importance of this environment as a carbon sink(8), the disappearance of this microbial pathway would have a large effect on oceanic production, and the global carbon cycle. Therefore, even though we are capable of fixing our own nitrogen, the regulation of the nitrogen cycle by prokaryotes is essential for our survival as a species. 
+
 The carbon cycle is yet another process that is fundamentally controlled by microbial processes. Microbial primary producers (such as cyanobacteria) and heterotrophic microbes serve as sinks for atmospheric CO2 and the sources of CO2 fluxes into the environment respectively(11). Even though increased anthropogenic CO2 fluxes from fossil fuels are becoming ever more of a concern, microbes in the soil contribute 10 times more of a CO2 flux globally(11). This decomposition and respiration of organic matter allows for the transformation of this organic material into forms that are once-again usable by other life-forms. This is especially true for complex organic polymers such as lignin, hemicellulose, and cellulose. Microbes produce and secrete extracellular enzymes that break down these complex structures so their components may be metabolized(11). Without this activity, it is undoubtable that organic material would not turnover at the rate that we are accustomed to today. This would have an enormous impact on essential human processes such as crop production. 
-	The truth of the matter is that we humans cannot survive without the global biogeochemical processes performed by microbes. Although individually tiny, their contributions on a global scale shape the world around us today. However, the question remains, how long can this global microbial metabolism continue to sustain us as a species? Human input into biogeochemical cycles has fundamentally altered the nitrogen and carbon cycles of our planet. How much longer can microbes continue to maintain earth's systems as we know them today? Thanks to their rapid evolutionary capacity and astounding metabolic and environmental diversity, microbes will certainly survive all but the most catastrophic of environmental alterations. But will we? 
+
+Humans and other organisms require a variety of essential micronutrients to perform basic metabolic processes. Often, these micronutrients, also known as vitamins, are precursors or cofactors of metabolic enzymes. While many microbes can synthesize these on their own, humans must obtain most vitamins exogenously(9,10). Some of these vitamins are obtained from the food that we eat, and absorbed by the human digestive tract. Still others are synthesized by our very own microbiota that persists in the gastrointestinal tract. Metagenomic studies of human gut commensals have shown that collectively, they possess many of the biosynthetic pathways required for vitamin synthesis. B vitamins in particular (folate, riboflavin, B12, niacin, pyridoxine, et cetera) are often synthesized by lactobacilli living in the human gut(10). In a world without microbes, these essential biosynthetic processes would be halted, and humans and other organisms would become rapidly vitamin-deficient.
+
+The truth of the matter is that we humans cannot survive without the global biogeochemical processes performed by microbes. Although individually tiny, their contributions on a global scale shape the world around us today. However, the question remains, how long can this global microbial metabolism continue to sustain us as a species? Human input into biogeochemical cycles has fundamentally altered the nitrogen and carbon cycles of our planet. How much longer can microbes continue to maintain earth’s systems as we know them today? Thanks to their rapid evolutionary capacity and astounding metabolic and environmental diversity, microbes will certainly survive all but the most catastrophic of environmental alterations. But due to our much more stringent environmental requirements for survival, humanity will not.
 
 References:
+
 1)	Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578-6583. PMC33863
+
 2)	Takai T; et al. (2008). "Cell proliferation at 122°C and isotopically heavy CH4 production by a hyperthermophilic methanogen under high-pressure cultivation" (PDF). PNAS. 105 (31): 10949-51. Bibcode:2008PNAS..10510949T. doi:10.1073/pnas.0712334105. PMC 2490668 
+
 3)	Nakagawa S, Takai K. 2008. Deep-sea vent chemoautotrophs: diversity, biochemistry, and ecological significance. FEMS Microbiology. Jul;65(1):1-14. doi: 10.1111/j.1574-6941.2008.00502 PMID:18503548
+
 4)	Nisbet EG, and Sleep NH. 2001. The habitat and nature of early life. Nature. 409: 1083-1091.
+
 5)	Kasting JF,and Siefert JL. 2003. Life and the Evolution of Earth's Atmosphere. Science. 296: 1066-1067. (https://www.ncbi.nlm.nih.gov/pubmed?term=Science%5BJour%5D+AND+Life+and+the+Evolution+of+Earth's+Atmosphere&TransSchema=title&cmd=detailssearch)
+
 6)	Canfield DE, et al. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science 330, 192 (2010);DOI: 10.1126/science.1186120
+
 7)	Soto G1, Fox AR, Ayub ND. 2013. Exploring the intrinsic limits of nitrogenase transfer from bacteria to eukaryotes. Journal of Molecular Evolution. Aug;77(1-2):3-7. doi: 10.1007/s00239-013-9578-8. Epub 2013 Aug 11. PMID:23933654
 8)	Falkowski P, et al. 2000. "The Global Carbon Cycle: A test of our knowledge of earth as a system. Science's Compass: Review. April 3, 2013.
+
 9)	Burkholder, P. R., & McVeigh, I. (1942). Synthesis of Vitamins by Intestinal Bacteria. Proceedings of the National Academy of Sciences of the United States of America, 28(7), 285-289.
+
 10)	LeBlanc, J. G., Milani, C., de Giori, G. S., Sesma, F., van Sinderen, D., & Ventura, M. (2013). Bacteria as vitamin suppliers to their host: A gut microbiota perspective. Current Opinion in Biotechnology, 24(2), 160-168. 10.1016/j.copbio.2012.08.005
+
 11)	Gougoulias, C., Clark, J. M., & Shaw, L. J. (2014). The role of soil microbes in the global carbon cycle: tracking the below-ground microbial processing of plant-derived carbon for manipulating carbon dynamics in agricultural systems. Journal of the Science of Food and Agriculture, 94(12), 2362-2371. http://doi.org/10.1002/jsfa.6577
 
-### Module 01 references
+## Module 01 references
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
 An example for Whitman and Wiebe (1998) has been included below.
@@ -457,3 +531,335 @@ Falkowski PC, et al. 2008. The Microbial Engines That Drive Earth's Biogeochemic
 Canfield DE, et al. 2010. The Evolution and Future of Earth's Nitrogen Cycle. Science 330, 192 (2010);DOI: 10.1126/science.1186120
 
 Rockstrom J, et al. 2009. "A safe operating space for humanity" Nature.
+
+# Module 2
+## Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
+#### Learning objectives: 
+Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
+*(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
+
+#### Specific Questions:
+* How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?
+  
+According to E. Stackebrandt, Woese initially identified 12 prokaryotic divisions. By 2003, 53 prokaryotic divisions had been recognized, of which 26 had no cultured representatives. Perhaps some have been cultured by now though.  
+
+In 2016, there were around 89 bacerial phyla and 20 archaeal phyla discovered via small 16s rRna databases. But there could be up to 1500 bacterial phyla are there are many microbes that live in the "shadow biosphere".
+
+* How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?
+
+This question is difficult to analyze because not all of these metagenome sequencing projects are stored in the same databases. There is GenBank, ebi, and some others. They are sourced from esentially every earthly environment, with some common ones being the human gut, sediments, soil, et cetera. Good candidates for metagenomic studies are complex environments which contain members that are hard to grow in lab cultures. 
+
+There are thousands metagenome sequencing projects, and this number is changing all of the time. According to the EBI database, there are 110217 sequencing projects stored there. Note: EBI stands for 
+
+* What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
+
+######Shotgun metagenomics
+Assembly - EULER
+Binning - S-GCOM
+Annotation - KEGG
+Analysis pipelines - MEGAN 5
+Databases- IMG/M, MG-RAST, NCBI, Note: there are many levels of curation in different databases.
+
+######Marker Gene metagenomics
+Standalone Software- OTUbase
+Analysis pipelines - SILVA
+Denoising - Amplicon Noise
+Databases- Ribosomal Database project (RDP)
+
+* What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?   
+
+Phylogenetic
+vertical gene transfer
+carry phylogenetic information
+taxonomic
+ideally single copy
+
+Functional
+more horixontal gene trans
+identify specific biogeochemical functions associated with measured effects
+
+* What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
+
+The process of grouping sequences that come from a single genome.
+
+Types of algoriths: 
+1)align sequences to database
+2) group to each other based on DNA characteristics: GC content, codon usage
+
+Risks and opportunities of binning: 
+Risks:
+incomplete coverage of genome sequence
+contamination from different phylogeny - some species can have similar DNA characteristics. Also, there is heterogeneity in species (for example e coli)
+
+* Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
+
+Functional screens (biochemical, etc)
+Third gen sequencing (nanopore) - essentially you sequence one whole genome at a time
+Single cell sequencing (flow cytometry then sequence)
+FISH probe
+
+##Evidence worksheet_04 "Bacterial Rhodopsin Gene Expression"
+
+#### What were the main questions being asked?
+
+Can you express a proteorhodopsin system in e coli and make it respond to light?
+
+Why is this proteorhodopsin pathway so distributed in bacteria in the ocean. 
+
+What are the functions of the proteorhodopsin system and its individual components in vivo, and how are they different from the predicted functions? 
+
+#### What were the primary methodological approaches used?
+
+Functional screening of a large fosmid library generated from a planktonic sample 
+
+HPLC analysis was used to identify the pigments in the PR systems
+
+Clones were analyzed for proton pumping activity of the PR system
+
+#### Summarize the main results or findings. 
+
+Two complete genetically distinct PR systems derived from the fosmid library were expressed in E. coli
+
+The function of the gene products of the pathway were elucidated using biochemical methods. 
+
+This provided evidence that a single genetic transfer event can introduce a complete PR photosystem, which in turn explains why this particular pathway is distributed in so many bacteria and archaea
+
+#### Do new questions arise from the results?
+
+Isn't there an easier way to identify the PR system in a metagenomic sample than functional screening?  
+How much is the PR system expressed in the bacteria that possess it in the ocean? In the organisms in which it is expressed, to what degree does it contribute to metabolism?
+
+Is there a genetic background more predisposed to the horizontal gene transfer of this system?
+
+The paper mentions that PR expression in marine bacteria may benefit the bacterium in ways not correlated with increased growth rates and yields. What would be this benefit? Would they be more adaptable to new environments?
+
+Why is the PR system more distributed in marine bacteria?
+
+What causes the expression of the PR system in marine bacteria?
+
+#### Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+How did they measure the rate of proton pumping in the e. coli clones?
+
+## Module 02 references
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+Wooley J, et al. 2009. A Primer on Metagenomics. PLOS Computational Biology. Volume 6, Issue 2, e1000667
+
+Madsen EL. 2005. Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews: Microbiology. Opinion. Volume 3, May 2005. 
+
+Stackebrandt, E. (2012). Molecular identification, systematics, and population structure of prokaryotes. Place of publication not identified: Springer.
+
+https://www.ebi.ac.uk/services
+
+Martinez et al., PNAS 2007.pdf "Bacterial Rhodopsin Gene Expression"
+
+# Module 3 Microbial Species Concepts
+
+##Evidence worksheet_05 “Extensive mosaic structure”
+
+General Questions:
+
+#####• What were the main questions being asked?
+
+How different are bacteria (even those that technically belong to the same species) genetically?
+What defines a species? 
+What proteins are shared between these three strains of E. coli? Can we use this information to infer a bit about the evolutionary history of each strain?
+What about island genes and horizontal transfer? Can we use the different codon usage patterns of island genes to infer whether the island genes were horizontally transfered?
+
+#####• What were the primary methodological approaches used?
+
+Essentially just cloning, sequencing, and then sequence analysis and annotation. 
+They created whole genome libraries from genomic DNA of the three strains and then sequenced the clones. They used the programs MAGPIE and GLIMMER to annotate the genome and find the ORFs, and then used BLAST to find the predicted protein products. 
+They also analyzed different codon usage patterns to identify island genes gained by horizontal gene tranfer (a long time ago).
+
+#####• Summarize the main results or findings. 
+
+The considerable variation in these E. coli lineages or strains to allow them to occupy different ecological niches. This indicates that these extraintestinal E. coli have evolved fairly independently from one another.
+
+Interestingly, there are some "universal insertion targets" in the E. coli genome, that are the site for insertion of DNA from horizontal gene transfer (even though the genes transferred differ between the strains) for all of the strains surveyed. Specifically, it is interesting that these sites are more likely to incorporate foreign DNA than elsewhere in the genome.
+ 
+#####• Do new questions arise from the results?
+
+How do we define E. coli as a species? Does the fact that these organisms have essentially evolved to occupy different biological niches indicate that they should be characterized as different species?
+
+#####• Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+ 
+Part 2: Learning objectives: 
+
+#####•	Comment on the creative tension between gene loss, duplication and acquisition as it relates to microbial genome evolution
+
+The gain and loss of genes, and the diversity that arises from this paradigm is mediated by natural selection. 
+If you don't aquire specialized genes to survive in diverse environments, you will not be able to survive period. This both mediates gain of unique genetic elements, and loss of genetic elements no longer required for survival in said environment: genetic dead weight.
+
+#####•	Identify common molecular signatures used to infer genomic identity and cohesion
+
+Some common signature they used in the paper was type III secretion systems, partial prophage genomes, fimbrial adhesins, iron sequestration stems, autotransporters, and phase-switch recombinases. They also used patterns of island appearance vs backbone DNA (identified using different codon usage patterns) too.
+
+#####•	Differentiate between mobile elements and different modes of gene transfer
+
+#####Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
+
+An ecotype is a distinct form of a species that occupies a specific niche. For example, in the context of E. coli and the human body, enterohemorrhagic and uropathogenic strains of E. coli are different ecotypes because they inhabit different "environments" or niches in the human body (urinary tract vs gastrointestinal system). 
+
+In the diagram, CFT073 appears to possess a variety of pap proteins that the enterohemorrhagic strain EDL933 does not posess. This is likely because pap proteins are used to assemble a pilus necessary for attatchment of E. coli to host cell surfaces. This pilus is necessary in uropathogenic e coli like CFT073 because in order to cause infection, they must be resistant to mechanical force from the urine stream. Enterohemorragic e. coli do not necesarily require this "sticky" phenotype in order to cause infection. Therefore, I would hypothesize that these pap genes were obtained during a horizontal gene transfer event early on in the evolutionary history of the CFT073 strain, and would be common to other strains of uropathogenic e. coli. That, or the pap pilus is a backbone gene that has been deleted from the EDL933 strain genome due to lack of use. 
+
+##Problem set_04 “Fine-scale phylogenetic architecture”
+```{r}
+#To make tables
+library(kableExtra)
+library(knitr)
+#To manipulate and plot data
+library(tidyverse)
+```
+```{r}
+sample_data1 = data.frame(
+  number = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14),
+  name = c("vine", "bricks", "skittles", "mike & ikes", "gummy bears", "M & Ms", "Hershey Kisses", "Sour bear", "Sour fruit", "Sour hexa", "Sour bottle", "Sour swirl", "Jujubes", "wine candy"),
+  characteristics = c("red vines", "candy lego bricks", "not m and ms", "mike and ikes", "bear shaped", "not skittles", "foil wrapped", "bear shaped and sour", "sour and a fruit", "sour and hexagon shaped", "sour and bottle shaped", "sour and swirly", "honestly not sure what these look like", "wine shaped but not alcoholic"),
+  occurences = c(14, 18, 187, 174, 101, 241, 16, 3, 2, 6, 3, 3, 24, 9)
+)
+```
+####This data is from Nishi, Jack, John, Leilnaz, and Helen's group - they provided me with the species count data. 
+```{r}
+sample_data1 %>% 
+  kable("html") %>%
+  kable_styling(bootstrap_options = "striped", font_size = 10, full_width = F)
+```
+No matter how many samples you take, you can never say for certain that you have collected a sample that accurately portrays the diversity of the environment. All you can do is reduce the chance that you have taken an unrepresentative sample, by taking multiple (large) samples. Given the size of the metagenomic data set, I would say that the majority of different species possible were sampled. 
+
+####Part 2: collector's curve
+```{r}
+sample_data2 = data.frame(
+  x = c(1,2,3,4,5,6,7,8,9,10),
+  y = c(1,2,3,4,4,5,5,5,6,6)
+)
+```
+```{r}
+ggplot(sample_data2, aes(x=x, y=y)) +
+  geom_point() +
+  geom_smooth() +
+  labs(x="Cumulative number of individuals classified", y="Cumulative number of species observed")
+```
+Note: did not have the data for this portion. I just included the code so that I would have it for future reference. However, I would say that if the curve flattens out, you have taken a large enough sample of your environment for it to be fairly representative of said environment. 
+
+####Part 3: Diversity Estimates
+Diversity: Simpson Reciprocal index calculation 
+Simpson reciprocal index for total community.
+```{r}
+species1 = 14/(736)
+species2 = 18/(736)
+species3 = 187/(736)
+species4 = 174/(736)
+species5 = 101/(736)
+species6 = 241/(736)
+species7 = 16/(736)
+species8 = 3/(736)
+species9 = 2/(736)
+species10 = 6/(736)
+species11 = 3/(736)
+species12 = 3/(736)
+species13 = 24/(736)
+species14 = 9/(736)
+
+1 / (species1^2 + species2^2 + species3^2 + species4^2 + species5^2 + species6^2 + species7^2 + species8^2 + species9^2 + species10^2 + species11^2 + species12^2 + species13^2 + species14^2)
+```
+Simpson Reciprocal index for a smaller sample of that community: (sample)
+```{r}
+species1 = 2/(153)
+species2 = 5/(153)
+species3 = 37/(153)
+species4 = 30/(153)
+species5 = 19/(153)
+species6 = 64/(153)
+species7 = 2/(153)
+species8 = 0/(153)
+species9 = 1/(153)
+species10 = 0/(153)
+species11 = 0/(153)
+species12 = 0/(153)
+species13 = 8/(153)
+species14 = 3/(153)
+
+1 / (species1^2 + species2^2 + species3^2 + species4^2 + species5^2 + species6^2 + species7^2 + species8^2 + species9^2 + species10^2 + species11^2 + species12^2 + species13^2 + species14^2)
+```
+
+
+
+Richness: Chao1 richness estimator of entire community
+```{r}
+14 + 0^2/(2*14)
+```
+Chao1 Richness estimator of sample: (smaller sample of the community)
+```{r}
+14 + 1^2/(2*9)
+```
+
+
+####Part 4: Alpha-diversity functions in R
+```{r}
+library(vegan)
+```
+```{r}
+sample_data1_diversity = 
+  sample_data1 %>% 
+  select(name, occurences) %>% 
+  spread(name, occurences)
+
+sample_data1_diversity
+```
+```{r}
+diversity(sample_data1_diversity, index="invsimpson")
+```
+```{r}
+specpool(sample_data1_diversity)
+```
+####Part 5: Concluding questions
+1) The measure of diversity depends on the definition of species in your samples because diversity estimates are calculated using the number of species that you find. If you use a different species definition when processing your sample (i.e. 98% genetic similarity vs something like 90%) you will get different numbers for your simpson reciprocal index and chao1 richness estimator. This would change your collectors curve too.
+
+2) Yes, you could define species as both the type of candy (which they did) AND the color of the candy. So a blue skittle would be considered a different species than a green skittle. 
+
+3) Different sequencing technologies could influence observed diversity in a sample due to inherent bias when it comes to sequencing the data. For example, if your sequencing technology includes amplifying all sequences using universal primers, you will inevitably skew your data to favor some sequences because there is no such thing as a truly universal primer. 
+
+##Module 3 Writing assignment
+Module 3 Writing Assignment: What’s in a [species] name? 
+
+Introduction
+
+In Shakespeare’s tragedy Romeo and Juliet, Juliet famously utters the oft-quoted line “What’s in a name? That which we call a rose, [b]y any other name would smell as sweet”(1). Although this text is not often associated with the concept of taxonomy, Juliet makes a point that can be ascribed to the world beyond the insular society of medieval Verona. Indeed, the concept to which Shakespeare poetically refers has long been a topic of investigation for cognitive psychologists the world over. In the field of cognitive psychology, there is a concept termed “Linguistic-relativism” which hypothesizes that the structure of language directly affects the cognition of those that use it(2). To examine this concept in the words of taxonomy, the fact that we assign specific names and taxonomic identifications to genetically distinct organisms directly affects how we consider those organisms to be different from one another. If we accept this theory to be true, this makes the practice of taxonomic classification especially important. Taxonomy was first conceived as a way of classifying multicellular organisms based upon shared characteristics. While this is a relatively easy proposition when one is separating, say, a zebra from a muskrat, it becomes trickier when one ventures into the world of microbes. Should we try to force a multicellular paradigm to fit the prokaryotic  biosphere? That is to say, should microbes be classified into species? Although we need some way of separating microbes into groups based upon genetic similarity, it is debatable whether the established taxonomic system is the best way to do so. The taxonomic system as it exists now fails to accurately depict the full extent of microbial diversity, largely due to the phenomenon of horizontal gene transfer. 
+
+Microbial species definitions
+
+At a multicellular level, species are often defined as a group of organisms with similar physical characteristics which can breed and produce fertile offspring. This definition must be modified when it is applied to microbes, which typically neither have observable physical characteristics, nor do they “breed” in the traditional sense. The rapid asexual division performed by prokaryotes ensures a pool of genetic material which vastly outstrips that of multicellular organisms in terms of sheer diversity. Thus, in order to apply the taxonomic system at a microscopic level, microbial ecologists needed to create a new set of defining characteristics of species. It comes as no surprise, therefore, that the prokaryotic species definition can vary from scientist to scientist. Wayne et al, one of the earliest attempts to establish a bacterial species definition, defines a bacterial species as “a collection of strains that are characterized by at least one diagnostic phenotypic trait and whose purified DNA molecules show at least 70% [DNA] cross-hybridization”(4,5). Other researchers have defined prokaryotic species as sharing 95% or 97% similar rRNA sequences(5). 
+Further complicating matters are existing environmental sampling methods for microbial populations. The overwhelming majority of microbial “species” cannot be grown in culture. Thus, the only source of information we have about them are fragments of their genomes that can be isolated from samples of their environments(3). This paucity of data is one of the reasons that the two major bioinformatic pipelines for the analysis of 16S rRNA amplicon data do not classify identified prokaryotes in terms of species, but rather using OTUs and ASVs.
+
+Phylogenetic relationships among prokaryotes
+
+One of the benefits of establishing a taxonomic identification system is that it allows us to infer phylogenetic relationships between different species. As mutations occur at a relatively constant rate, it is only logical that organisms with higher degrees of genetic similarity would be more closely related evolutionarily. While this idea is sound in principle, it overlooks the role of horizontal gene transfer among microbes. Among prokaryotes, genetic information can be taken up from the environment, carried into the cell by a phage, or plasmids can even be transferred directly from cell to cell via a conjugative pilus. Through horizontal gene transfer, entire metabolic pathways have been shared between diverse groups of bacteria and archaea, as has been hypothesized to be the case for specific sulfate respiration pathways(6). Indeed, in the early earth, there is molecular evidence of such promiscuous gene flow that communal evolution was likely the primary method of adaptation(6). 
+	
+This promiscuous sharing of genetic information has obvious implications when it comes to establishing phylogenies. If two bacteria share specific gene or metabolic pathway, they could be directly evolutionarily related, or merely a product of a horizontal gene transfer that occurred earlier in each respective strain’s history. When drawing a phylogenetic tree of a microbial organism, the lines that represent the inheritance of genetic material don’t just run up and down, but horizontally as well. For this reason, the entire phylogenetic species concept, and the taxonomic system that depends upon it must be restructured to account for this property of the prokaryotic biosphere. 
+	
+Conclusion
+
+In order to accurately describe the genetic relationships between microbes, we have two options. Either we create a new taxonomic identification system specifically tailored to the microbial world, or we make it understood that the microbial species definition is fundamentally different than that of multicellular organisms. No matter how descriptive a given taxonomic system is, in the end, it is entirely arbitrary. No living species is static, or fits neatly into a taxonomic box. Prokaryotes are merely the most obvious of outliers, due to their twin properties of rapid reproduction and horizontal gene transfer. Even when passaging known species on laboratory media rather than their “natural environment”, large-scale genetic differences can be observed on a human timescale. Bordetella Pertussis, for example, has been found to rearrange significant portions of its genome after as few as 12 passages on laboratory media(7). Imagine how different laboratory adapted Escherichia coli must be, after decades of laboratory maintenance. Consider too, the sheer volume of microbial diversity. Microbes were the first living things to evolve, and have benefited from anywhere between 3.5 and 4 billion years of microbial evolution. Multicellular organisms on the other hand, only evolved around 600 million years ago. It is only to be expected that microbial diversity far outstrips multicellular diversity, commensurate to the billions of extra years it has had to evolve. Thus, to create a clear definition of a microbial species would be an exercise in futility. 
+
+References:
+
+1.	Gibson, R., & Shakespeare, W. (2006). Shakespeare, Romeo and Juliet. Cambridge: Cambridge Univ. Press.
+
+2.	Gleitman, L., & Papafragou, A. (n.d.). Relations Between Language and ought. In Decision Making(pp. 504-523). doi:https://cpb-us-west-2-juc1ugur1qwqqqo4.stackpathdns.com/web.sas.upenn.edu/dist/4/81/files/2017/07/Gleitman-Papafragou-2013_Relations-between-language-and-thought-19a33dc.pdf
+
+3.	Nichols, D. et al. Use of ichip for high-throughput in situ cultivation of “uncultivable” microbial species. Appl. Environ. Microbiol. 76, 2445–2450 (2010)
+
+4.	Wayne L.G, et al. Report of the ad hoc committee on reconciliation of approaches to bacterial systematics. Int. J. Syst. Bacteriol. 1987;37:463–464.
+
+5.	Konstantinidis KT, Ramette A, Tiedje JM. The bacterial species definition in the genomic era. Philosophical Transactions of the Royal Society B: Biological Sciences. 2006;361(1475):1929-1940. doi:10.1098/rstb.2006.1920.
+6.	Falkowski, P., Fenchel, T., & Delong, E. (2008). The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science Special Reviews,320.
+
+7.	Brinig, M. M., Cummings, C. A., Sanden, G. N., Stefanelli, P., Lawrence, A., & Relman, D. A. (2006). Significant Gene Order and Expression Differences in Bordetella pertussis Despite Limited Gene Content Variation. Journal of Bacteriology,188(7), 2375-2382. doi:10.1128/jb.188.7.2375-2382.2006
+
+
+##Module 03 references
+Rockstrom J, et al. 2009. "A safe operating space for humanity" Nature.
+
+Welch RA, Burland V, Plunkett G, et al. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proceedings of the National Academy of Sciences of the United States of America. 2002;99(26):17020-17024. doi:10.1073/pnas.252529799. 
